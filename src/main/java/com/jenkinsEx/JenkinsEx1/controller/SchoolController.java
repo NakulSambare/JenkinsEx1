@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/JenkinsEx1/school")
+@RequestMapping("/school")
 public class SchoolController {
 
     @Autowired
